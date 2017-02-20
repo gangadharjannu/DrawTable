@@ -6,6 +6,7 @@ table, td, th {
 table {
     border-collapse: collapse;
     width: 100%;
+    margin:5px;
 }
 
 th, td {
@@ -25,4 +26,7 @@ th{
                                   supported by Chrome and Opera */
 
 
+}
+th.thick{
+  font-weight: bold;
 }
